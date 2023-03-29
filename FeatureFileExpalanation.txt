@@ -1,0 +1,35 @@
+url -> www.gmail.com
+registation
+
+->registation with google account
+->registation with FB account
+->registation with Insta account
+->registation with xyz account
+
+Feature : registation using the scocial medias
+
+Scenario -> is nothing but its a test case
+Scenario Outline -> is nothing but its a test case with test data 
+
+
+Feature file we will use gerkin language
+
+Given
+When 
+Then
+And
+But
+
+Given -> we can call it as pre requirements
+When -> we can call it as a gerenal statement
+Then -> we can call it as expected results
+And -> we can call it as a combining statement
+
+Background -> we can call its a pre requirement for that perticualr feature file
+Tag -> we can call it will control the execution
+
+BDD -> is having of 3 steps
+one is feature and another one is stepdefination and last one is runner class
+
+
+
